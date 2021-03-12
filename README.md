@@ -12,3 +12,29 @@ if data is false u can not login for ur account
 3) Choose for all films or films by genre 
 4) enter ID of film
 5) Congratulations, we added this film
+
+Classes:
+
+Account.java
+
+AccountController.java
+
+AccountRepository.java
+
+Application.java
+
+Film.java
+
+IAccountRepository.java
+
+IDB.java
+
+ISearchRepository.java
+
+Main.java
+
+Postgres.java
+
+SearchController.java
+
+SearchRepository.java
